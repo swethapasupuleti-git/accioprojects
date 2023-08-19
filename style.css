@@ -1,0 +1,66 @@
+.nav{
+background-color: aqua;
+position:sticky;
+color:blue;
+top: 0px;
+font-family:'Times New Roman', Times, serif
+}
+
+.nav>h1{
+display: inline-block;
+width: 1000px;
+padding-inline: 20px;
+}
+
+.nav>a{
+text-decoration: none;
+    padding-inline: 20px;
+}
+
+#heading{
+    text-align: justify;
+}
+
+
+#register{
+ color: #000;
+ text-align: center;
+}
+#ss{
+    width: 400px;
+    height: 400px;
+    border-style: double;
+    text-align: centre;
+    padding: 20px;
+    background-color: beige;
+    
+}
+#btn{
+    width: 400px;
+    text-align: centre;
+    background-color:pink;
+    
+}
+#fname{
+    width:400px;
+}
+#Lname{
+    width:400px;
+}
+#dob{
+    width:400px;
+}
+#age{
+    width:400px;
+}
+#email{
+    width:400px;
+}
+#password{
+    width:400px;
+}
+#cpassword{
+    width:400px;
+}
+
+
